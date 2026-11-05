@@ -1,0 +1,17 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bar-red {
+    width: 60px;
+    background-color: #dc3545;
+    transition: height 0.5s ease;
+    height: 100px;
+}
+
+.bar-green {
+    width: 60px;
+    background-color: #198754;
+    transition: height 0.5s ease;
+    height: 100px;
+}
